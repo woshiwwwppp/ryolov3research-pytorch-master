@@ -1,4 +1,4 @@
-An oriented bounding boxes implement of YOLOv3 with SEnet , Deformable Convolution and rotated NMS written in CUDA .And it has good adaptability to big object 
+An oriented bounding boxes implement of YOLOv3 with SEnet , Deformable Convolution and rotated NMS written in CUDA. And it has good adaptability to big object 
 
 install:
 
