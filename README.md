@@ -1,4 +1,5 @@
-# yolov3research-pytorch
-research the effect of loss function on yolov3
-1. focal_loss-https://github.com/fizyr/keras-retinanet/tree/master/keras_retinanet
-2. GHMloss-https://github.com/libuyu/GHM_Detection/tree/pytorch-0.3
+An oriented bounding boxes implement of YOLOv3 with SEnet , Deformable Convolution and rotated NMS written in CUDA .And it has good adaptability to big object 
+
+install:
+cd ./yolo/nms
+python setup.py build_ext --inplace
