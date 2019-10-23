@@ -8,7 +8,7 @@ python setup.py build_ext --inplace
 
 usage:
 
-1.make your own dataset by labeImage 
+1.make your own dataset by labeImage https://github.com/woshiwwwppp/ryolov3research-pytorch-master/blob/master/labelImg.exe
 
 2.use generate_data.py to get label file
 
