@@ -8,6 +8,9 @@ python setup.py build_ext --inplace
 
 usage:
 1.make your own dataset by labeImage
+
 2.use generate_data.py to get label file
-3.
+
+3.use train.py to train
+
 ![image](https://github.com/woshiwwwppp/ryolov3research-pytorch-master/blob/master/picture.jpg)
