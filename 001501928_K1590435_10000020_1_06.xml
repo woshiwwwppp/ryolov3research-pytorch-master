@@ -1,0 +1,31 @@
+
+      <annotation verified="no">
+        <folder>train</folder>
+        <filename>001501928_K1590435_10000020_1_06.jpg</filename>
+        <path>D:\train</path>
+        <source>
+          <database>Unknown</database>
+        </source>
+        <size>
+          <width>6600</width>
+          <height>4400</height>
+          <depth>3</depth>
+        </size>
+        <segmented>0</segmented>
+       <object>
+         <type>robndbox</type>
+         <name>insulator</name>
+         <pose>Unspecified</pose>
+         <truncated>0</truncated>
+         <difficult>0</difficult>
+         <robndbox>
+           <cx>2675</cx>
+           <cy>1706</cy>
+           <w>435</w>
+           <h>1333</h>
+           <angle>1.0646727181613587</angle>
+         </robndbox>
+       </object>
+     
+      </annotation>
+      
