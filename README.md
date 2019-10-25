@@ -1,5 +1,15 @@
 An oriented bounding boxes implement of YOLOv3 with SEnet , Deformable Convolution and rotated NMS written in CUDA. 
 
+enviroment： 
+ubuntu16.04 pytorch1.1
+
+requirement：
+numpy
+opencv
+matplotlib
+tensorboardX
+shapely
+
 install:
 
 cd ./yolo/nms
